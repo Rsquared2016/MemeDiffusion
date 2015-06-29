@@ -6,8 +6,8 @@ http://www.nature.com/srep/2013/130828/srep02522/full/srep02522.html
 
 In short: 
 
-Sample all public tweets
-Get the users tweeting in English
+Sample all public tweets.
+Get the users tweeting in English.
 Construct an undirected, unweighted network based on reciprocal following relationships between 
 randomly selected users (as bi-directional links reflect more stable and reliable social connections). 
 
