@@ -24,7 +24,7 @@ Once the files are downloaded into a folder, issue the following commands:
 3. python Read_CSV.py --> Reads data into a CSV
 4. python Extract_followers.py
 5. python Network_edgelist.py
-6. python Visualize_net.py
+6. python Visualize_net.py 
 
 
 
