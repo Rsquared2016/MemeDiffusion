@@ -19,12 +19,12 @@ Execution:
 ------------
 
 Once the files are downloaded into a folder, issue the following commands:
-1. python Capture_twitter_data.py --> Capture Twitter stream
-2. python JSON_twitter.py
-3. python Read_CSV.py --> Reads data into a CSV
-4. python Extract_followers.py
-5. python Network_edgelist.py
-6. python Visualize_net.py 
+1. py Capture_twitter_data.py --> Capture Twitter stream
+2. py JSON_twitter.py
+3. py Read_CSV.py --> Reads data into a CSV
+4. py Extract_followers.py
+5. py Network_edgelist.py
+6. py Visualize_net.py 
 
 
 
